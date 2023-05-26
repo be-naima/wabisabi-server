@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Hiroshi Kaito",
+        "experience": "6",
+        "recipesNumber": "3",
+        "likes": "150k",
+        "chefImage": "https://raw.githubusercontent.com/be-naima/image/main/1%20(2).png",
+        "discription" : "A renowned sushi chef in Tokyo, known for his exquisite omakase  meals that showcase the freshest and most premium seafood."
+    },
+    {
+        "id": 2,
+        "name": "Sakura Kei",
+        "experience": "4",
+        "recipesNumber": "4",
+        "likes": "30k",
+        "chefImage": "https://raw.githubusercontent.com/be-naima/image/main/1%20(6).png",
+        "discription" : "A pioneering chef who blends traditional Japanese cuisine with avant-garde techniques and global flavors, earning him three Michelin stars at his restaurant in Tokyo."
+    },
+    {
+        "id": 3,
+        "name": "Akira Haru",
+        "experience": "7",
+        "recipesNumber": "3",
+        "likes": "180k",
+        "chefImage": "https://raw.githubusercontent.com/be-naima/image/main/1%20(1).png",
+        "discription" : "An acclaimed chef who has established successful restaurants in both New York and Tokyo, serving his signature style of contemporary Japanese cuisine that emphasizes simplicity and high-quality ingredients."
+    },
+    {
+        "id": 4,
+        "name": "Hinata Aya",
+        "experience": "9",
+        "recipesNumber": "4",
+        "likes": "190k",
+        "chefImage": "https://raw.githubusercontent.com/be-naima/image/main/1%20(3).png",
+        "discription" : "A female chef who runs a Michelin-starred kaiseki (multi-course) restaurant in Los Angeles, showcasing her unique interpretation of Japanese culinary traditions with a focus on seasonal ingredients and meticulous presentation."
+    },
+    {
+        "id": 5,
+        "name": "Makoto Zero",
+        "experience": "8",
+        "recipesNumber": "5",
+        "likes": "70k",
+        "chefImage": "https://raw.githubusercontent.com/be-naima/image/main/1%20(5).png",
+        "discription" : "A chef who combines his Japanese heritage with his international experiences, creating innovative dishes that showcase the diversity of Japanese cuisine at his Tokyo-based restaurant."
+    },
+    {
+        "id": 6,
+        "name": "Hana Aoi",
+        "experience": "6",
+        "recipesNumber": "3",
+        "likes": "90k",
+        "chefImage": "https://raw.githubusercontent.com/be-naima/image/main/1%20(4).png",
+        "discription" : "A rising star in the Japanese culinary scene, known for his modern interpretations of traditional Japanese dishes that incorporate global influences and techniques, earning him two Michelin stars at his restaurant in Tokyo."
+    }
+]

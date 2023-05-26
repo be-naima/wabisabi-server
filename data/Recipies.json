@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "chef_id": 1,
+        "name": "Sushi",
+        "ingridients": "Fish,Vegetables,Seaweed,Rice,Wasabi",
+        "method": "To make sushi, you need to start by preparing the sushi rice and cutting the ingredients. Then, you lay out a sheet of nori seaweed, spread the rice over it, add the ingredients, and roll it into a cylinder using a bamboo mat.",
+        "rating": "4.5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-sushi/Blog-page-156-sushi?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 2,
+        "chef_id": 1,
+        "name": "Udon",
+        "ingridients": "Udon noodles,Dashi stock,Soy sauce,Mirin,Sugar",
+        "method": "To make udon noodles, you need to mix flour, salt, and water into a dough, knead it, then roll it out and cut into noodles. The noodles are then boiled in salted water until cooked and can be served in various dishes.",
+        "rating": "5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-udon/Blog-page-156-udon?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 3,
+        "chef_id": 1,
+        "name": "Tempora",
+        "ingridients": "Flour,Baking powder,Egg,Tempura,Oil",
+        "method": "To make tempura, you need to prepare the batter by mixing flour, ice-cold water, and optionally egg yolk. Dip the ingredients (such as seafood, vegetables) in the batter and deep-fry in hot oil until crispy and golden.",
+        "rating": "5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-156-tempura/Blog-156-tempura?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 4,
+        "chef_id": 2,
+        "name": "Yakitori",
+        "ingridients": "Chicken,Skewers,Tare sauce,Salt,Vegetable garnish",
+        "method": "To make yakitori, you need to skewer small pieces of chicken and grill them over charcoal or gas flame. The chicken is typically seasoned with a mixture of soy sauce, sake, mirin, sugar, and other ingredients for flavor.",
+        "rating": "4.6",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Yakitori-Grilled-Skewers/Blog-page-156-Yakitori-Grilled-Skewers?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 5,
+        "chef_id": 2,
+        "name": "Sashimi",
+        "ingridients": "Fish ,Seafood,Wasabi,Soy sauce,Garnishes",
+        "method": "To make sashimi, you need to start with fresh, high-quality fish and slice it thinly with a sharp knife. The fish is typically served with soy sauce, wasabi, and garnishes such as daikon radish or shiso leaves.",
+        "rating": "3.5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-sashimi/Blog-page-156-sashimi?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 6,
+        "chef_id": 2,
+        "name": "Ramen",
+        "ingridients": "Broth,Noodles,Toppings,Seasonings,soya sauce",
+        "method": "To make ramen, you need to prepare the broth, boil the noodles, and add various toppings such as sliced pork, soft-boiled egg, green onions, and nori seaweed.",
+        "rating": "3.2",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-ramen/Blog-page-156-ramen?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 7,
+        "chef_id": 2,
+        "name": "Donburi",
+        "ingridients": " rice, protein,carrots, mushrooms, bean sprouts ",
+        "method": "To make donburi, you need to prepare a bowl of rice and top it with various ingredients such as sliced beef, chicken, or fish, as well as vegetables, eggs, and sauce. The bowl is then typically served hot and can be garnished with green onions or other toppings.",
+        "rating": "4.2",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Oyakodon/Blog-page-156-Oyakodon?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 8,
+        "chef_id": 3,
+        "name": "Oden",
+        "ingridients": "Konnyaku, daikon, boiled eggs, fish cakes (kamaboko), and tofu",
+        "method": "To make oden, you need to simmer various ingredients such as boiled eggs, daikon radish, fishcakes, and konjac in a flavored dashi broth. The dish is typically served hot and can be garnished with mustard or grated daikon radish.",
+        "rating": "5.0",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Oden-Hot-Pot/Blog-page-156-Oden-Hot-Pot?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 9,
+        "chef_id": 3,
+        "name": "Tonkatsu",
+        "ingridients": "Pork cutlets, flour, eggs, panko breadcrumbs, and vegetable oil.",
+        "method": "To make tonkatsu, you need to coat pork cutlets in flour, egg, and panko breadcrumbs, then deep-fry them until golden brown. The cutlets are typically served with a sweet and savory tonkatsu sauce and shredded cabbage.",
+        "rating": "4.8",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-tonkatsu-pork-cutlets/Blog-page-156-tonkatsu-pork-cutlets?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 10,
+        "chef_id": 3,
+        "name": "Sukiyaki",
+        "ingridients": "Thinly sliced beef, tofu, shirataki noodles,soy sauce, sugar, mirin. ",
+        "method": "To make sukiyaki, you need to simmer thinly sliced beef and vegetables such as onions, mushrooms, and tofu in a savory-sweet soy sauce and sugar-based broth. The dish is typically served hot and can be dipped in raw beaten eggs for added richness.",
+        "rating": "3.6",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-sukiyaki/Blog-page-156-sukiyaki?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 11,
+        "chef_id": 4,
+        "name": "Curry Rice",
+        "ingridients": "Curry roux, onion, carrot, potato, beef or chicken.",
+        "method": "To make Japanese curry rice, you need to sauté meat and vegetables such as onions and carrots, add water and curry roux, and simmer until thickened. The curry is then served over rice and can be garnished with pickles or fried shallots.",
+        "rating": "5.0",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-curry-rice/Blog-page-156-curry-rice?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 12,
+        "chef_id": 4,
+        "name": "Kaiseki Ryori",
+        "ingridients": "Flour, eggs, shredded cabbage, green onion, pork belly.",
+        "method": "To make okonomiyaki, you need to mix cabbage and other ingredients such as seafood or pork into a batter made of flour, eggs, and dashi broth, and cook on a griddle. The pancake is then topped with okonomiyaki sauce, mayonnaise, bonito flakes, and seaweed flakes, and can be enjoyed hot.",
+        "rating": "3.2",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-kaiseki-ryori/Blog-page-156-kaiseki-ryori?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 13,
+        "chef_id": 4,
+        "name": "Sushi",
+        "ingridients": "Fish,Vegetables,Seaweed,Rice,Wasabi",
+        "method": "To make sushi, you need to start by preparing the sushi rice and cutting the ingredients. Then, you lay out a sheet of nori seaweed, spread the rice over it, add the ingredients, and roll it into a cylinder using a bamboo mat.",
+        "rating": "4.5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-sushi/Blog-page-156-sushi?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 14,
+        "chef_id": 4,
+        "name": "Yakitori",
+        "ingridients": "Chicken,Skewers,Tare sauce,Salt,Vegetable garnish",
+        "method": "To make yakitori, you need to skewer small pieces of chicken and grill them over charcoal or gas flame. The chicken is typically seasoned with a mixture of soy sauce, sake, mirin, sugar, and other ingredients for flavor.",
+        "rating": "4.6",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Yakitori-Grilled-Skewers/Blog-page-156-Yakitori-Grilled-Skewers?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 15,
+        "chef_id": 5,
+        "name": "Ramen",
+        "ingridients": "Broth,Noodles,Toppings,Seasonings,soya sauce",
+        "method": "To make ramen, you need to prepare the broth, boil the noodles, and add various toppings such as sliced pork, soft-boiled egg, green onions, and nori seaweed.",
+        "rating": "3.2",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-ramen/Blog-page-156-ramen?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 16,
+        "chef_id": 5,
+        "name": "Yakitori",
+        "ingridients": "Chicken,Skewers,Tare sauce,Salt,Vegetable garnish",
+        "method": "To make yakitori, you need to skewer small pieces of chicken and grill them over charcoal or gas flame. The chicken is typically seasoned with a mixture of soy sauce, sake, mirin, sugar, and other ingredients for flavor.",
+        "rating": "4.6",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Yakitori-Grilled-Skewers/Blog-page-156-Yakitori-Grilled-Skewers?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 17,
+        "chef_id": 5,
+        "name": "Oden",
+        "ingridients": "Konnyaku, daikon, boiled eggs, fish cakes (kamaboko), and tofu",
+        "method": "To make oden, you need to simmer various ingredients such as boiled eggs, daikon radish, fishcakes, and konjac in a flavored dashi broth. The dish is typically served hot and can be garnished with mustard or grated daikon radish.",
+        "rating": "5.0",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Oden-Hot-Pot/Blog-page-156-Oden-Hot-Pot?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 18,
+        "chef_id": 5,
+        "name": "Tonkatsu",
+        "ingridients": "Pork cutlets, flour, eggs, panko breadcrumbs, and vegetable oil.",
+        "method": "To make tonkatsu, you need to coat pork cutlets in flour, egg, and panko breadcrumbs, then deep-fry them until golden brown. The cutlets are typically served with a sweet and savory tonkatsu sauce and shredded cabbage.",
+        "rating": "4.8",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-tonkatsu-pork-cutlets/Blog-page-156-tonkatsu-pork-cutlets?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 19,
+        "chef_id": 5,
+        "name": "Yakitori",
+        "ingridients": "Chicken,Skewers,Tare sauce,Salt,Vegetable garnish",
+        "method": "To make yakitori, you need to skewer small pieces of chicken and grill them over charcoal or gas flame. The chicken is typically seasoned with a mixture of soy sauce, sake, mirin, sugar, and other ingredients for flavor.",
+        "rating": "4.6",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-Yakitori-Grilled-Skewers/Blog-page-156-Yakitori-Grilled-Skewers?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 20,
+        "chef_id": 6,
+        "name": "Udon",
+        "ingridients": "Udon noodles,Dashi stock,Soy sauce,Mirin,Sugar",
+        "method": "To make udon noodles, you need to mix flour, salt, and water into a dough, knead it, then roll it out and cut into noodles. The noodles are then boiled in salted water until cooked and can be served in various dishes.",
+        "rating": "5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-udon/Blog-page-156-udon?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 21,
+        "chef_id": 6,
+        "name": "Tempora",
+        "ingridients": "Flour,Baking powder,Egg,Tempura,Oil",
+        "method": "To make tempura, you need to prepare the batter by mixing flour, ice-cold water, and optionally egg yolk. Dip the ingredients (such as seafood, vegetables) in the batter and deep-fry in hot oil until crispy and golden.",
+        "rating": "5",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-156-tempura/Blog-156-tempura?$poi$&w=556&h=391&sm=c&fmt=auto"
+    },
+    {
+        "id": 22,
+        "chef_id": 6,
+        "name": "Ramen",
+        "ingridients": "Broth,Noodles,Toppings,Seasonings,soya sauce",
+        "method": "To make ramen, you need to prepare the broth, boil the noodles, and add various toppings such as sliced pork, soft-boiled egg, green onions, and nori seaweed.",
+        "rating": "3.2",
+        "foodImg": "https://cdn.media.amplience.net/i/japancentre/Blog-page-156-ramen/Blog-page-156-ramen?$poi$&w=556&h=391&sm=c&fmt=auto"
+    }
+]
